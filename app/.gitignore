@@ -1,0 +1,10 @@
+.flaskenv
+.vscode/
+*.code-workspace
+Pipfile
+Pipfile.lock
+__pycache__/
+env.bat
+env.sh
+env/
+run.sh
